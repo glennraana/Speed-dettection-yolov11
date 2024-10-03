@@ -1,5 +1,5 @@
 # Speed-dettection-yolov11
-In this video, I demonstrate how to use the latest YOLOv11 model for accurate speed detection from video footage rom video footage. Whether you're working on object tracking, machine learning, or AI-based video processing, this tutorial will walk you through every step. Learn how to set up the YOLOv11 environment, process video data, and make real-time speed predictions with powerful AI.
+In this video, I demonstrate how to use the latest YOLOv11 model for accurate speed detection from video footage. Whether you're working on object tracking, machine learning, or AI-based video processing, this tutorial will walk you through every step. Learn how to set up the YOLOv11 environment, process video data, and make real-time speed predictions with powerful AI.
 
 ✅ What you'll learn:
 
